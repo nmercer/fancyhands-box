@@ -1,0 +1,3 @@
+# Copy this to "settings.py" and add your api credentials
+FANCYHANDS_API_KEY = ""
+FANCYHANDS_API_SECRET = ""
